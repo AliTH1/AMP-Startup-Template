@@ -1,0 +1,201 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+.main{
+    width: 100%;
+    height: 70px;
+    float: left;
+    background-color: red;
+}
+
+.navbar{
+    width: 100%;
+    height: 70px;
+    float: left;
+    background-color: darkblue;
+}
+
+.left-navbar{
+    width: 155px;
+    height: 50px;
+    margin: 10px 0px 0px 50px;
+    float: left;
+}
+
+.logo-phone{
+    width: 50px;
+    height: 50px;
+    float: left;
+}
+
+img{
+    width: 50px;
+    height: 50px;
+    float: left;
+}
+
+.text-1{
+    width: 100px;
+    height: 50px;
+    margin-left: 5px;
+    float: left;
+}
+
+.st{
+    color: white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 100px;
+    height: 50px;
+    float: left;
+    display: flex;
+    align-items: center;
+}
+
+.right-navbar{
+    width: 400px;
+    height: 70px;
+    margin-right: 30px;
+    float: right;
+    /* background-color: gray; */
+}
+
+.home-button{
+    width: 50px;
+    height: 50px;
+    margin-top: 20px;
+    float: left;
+}
+
+.home-text{
+    color: white;
+    font-size: small;
+}
+
+.more-demos-button{
+    width: 90px;
+    height: 50px;
+    margin-top: 20px;
+    margin-left: 15px;
+    margin-right: 10px;
+    float: left;
+}
+
+.more-demos-text{
+    color: white;
+    font-size: small;
+}
+
+.watch-video-button{
+    width: 90px;
+    height: 50px;
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-right: 10px;
+    float: left;
+}
+
+.watch-video-text{
+    color: white;
+    font-size: small;
+}
+
+.buy-now-button{
+    width: 90px;
+    height: 40px;
+    margin-top: 10px;
+    margin-left: 10px;
+    border-radius: 5px;
+    float: left;
+    background-color: palevioletred;
+}
+
+.text-2{
+    width: 60px;
+    height: 25px;
+    margin-top: 10px;
+    margin-left: 15px;
+    float: left;
+}
+
+.bn{
+    font-size: small;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: white;
+}
+
+
+.main-2{
+    width: 100%;
+    min-height: 800px;
+    float: left;
+    background-image: url("../img/img-7.jpg");
+    background-size: cover;
+}
+
+.center{
+    width: 100%;
+    height: 250px;
+    margin-top: 150px;
+    float: left;
+}
+
+.div-center-text{
+    width: 50%;
+    height: 150px;
+    margin-left: 25%;
+    float: left;
+    text-align: center;
+}
+
+.center-text{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 56px;
+}
+
+.div-buy-now-green-button{
+    width: 10%;
+    height: 50px;
+    margin-top: 5px;
+    margin-left: 38%;
+    float: left;
+    background-color: greenyellow;
+}
+
+.buy-now-green-button{
+    width: 100%;
+    height: 20px;
+    margin-top: 15px;
+    margin-left: 25%;
+    float: left;
+}
+
+.buy-now-green-text{
+    color: white;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.div-demo-pages-button{
+    width: 15%;
+    height: 50px;
+    margin-top: 5px;
+    margin-left: 1%;
+    float: left;
+    background-color: white;
+}
+
+.demo-pages-button{
+    width: 100%;
+    height: 20px;
+    margin-top: 15px;
+    margin-left: 25%;
+    float: left;
+}
+
+.demo-pages-text{
+    color: black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
